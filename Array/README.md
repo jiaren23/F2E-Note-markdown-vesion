@@ -1,5 +1,8 @@
 
 # Array 常見陣列操作
+
+DEOM Code：[CodePen](https://codepen.io/jiaren/pen/vYLWqrK?editors=0012)
+
 <hr>
 
 ## **forEach**
