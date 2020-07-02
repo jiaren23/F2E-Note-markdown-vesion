@@ -70,7 +70,7 @@ console.log(newMap)  // [2, 4, 6, 8, 10, 12]
 let newForEach = testAry.forEach(item=>{
    item * 2
 })
-console.log(testAry) // [1, 2, 3, 4, 5, 6] => 原始陣列不變
+console.log(testAry)    // [1, 2, 3, 4, 5, 6] => 原始陣列不變
 console.log(newForEach) // undefined => 本身沒有 return 效果 (寫return 也沒用)
 ```
 
